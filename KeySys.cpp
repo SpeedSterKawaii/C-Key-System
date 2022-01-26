@@ -12,6 +12,7 @@ int start()
     Sleep(1000);
   if (key.find(keywatf) != std::string::npos) {
     std::cout << "OMG congrats ur a retard!" << '\n';
+    //whateberu want it to do
     
     else
     {
